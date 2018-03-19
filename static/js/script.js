@@ -20,6 +20,7 @@ function presaleFormSubmit(event) {
   'json')
 }
 
+
 function partnerFormSubmit(event) {
   $.post('/partners/interest', $('form').serialize(), function(data) {
 

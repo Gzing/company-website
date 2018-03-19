@@ -9,6 +9,8 @@ dotenv.load() or dotenv.load('.env')
 DEV_EMAIL = dotenv.get('DEV_EMAIL', default=None)
 
 DEBUG = dotenv.get('DEBUG', default=False)
+ASSET_DEBUG = dotenv.get('DEBUG', default=False)
+
 
 HOST = dotenv.get('HOST')
 HTTPS = dotenv.get('HTTPS', default=True)

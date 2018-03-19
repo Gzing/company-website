@@ -49,3 +49,8 @@ constants_override.py
 
 # vim
 *.swp
+
+# Flask Assets
+node_modules
+static/.webassets-cache
+static/gen

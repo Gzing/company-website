@@ -1,0 +1,19 @@
+{
+  "name": "company-website",
+  "description": "Official website for Origin Protocol",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OriginProtocol/company-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OriginProtocol/company-website/issues"
+  },
+  "homepage": "https://github.com/OriginProtocol/company-website#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
